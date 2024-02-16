@@ -1,0 +1,23 @@
+/* .box{
+          border: 2px solid red;
+          width: 25%;
+} */
+
+*{
+          margin: 0;
+          padding: 0;
+}
+
+.parent{
+          background-color: aqua;
+border: 2px solid black;
+width: 50%;
+height: 100px;
+}
+
+.child{
+          border: solid red 2px;
+          width: 20%;
+          height: 50%;
+          background-color: purple;
+}
