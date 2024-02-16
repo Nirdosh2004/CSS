@@ -1,0 +1,23 @@
+*{
+          margin: 0;
+          padding: 0;
+}
+/* img{
+          margin: 10px;
+} */
+.container{
+          border: solid black 2px;
+      
+}
+
+.image2{
+          /* window ke hisab se kaam krta hai  */
+      position: relative;
+      top: 200px;
+      left: 200px;
+}
+
+.image4{
+          position: fixed;
+         
+}
